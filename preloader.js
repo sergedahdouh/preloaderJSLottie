@@ -47,7 +47,7 @@ const animationData = {
     renderer: 'svg', // Use 'svg' or 'canvas' based on your preference
     loop: true, // Set to true if you want the animation to loop
     autoplay: true, // Set to true if you want the animation to start automatically
-    path: 'https://lottie.host/804d7077-c399-4031-9eab-60722d081647/yJLzoPJSz6.json', // Replace with the actual URL of your Lottie JSON file
+    path: 'https://lottie.host/03854153-4215-410c-ba83-713a52c5f31b/M9SHSBwyYK.json', // Replace with the actual URL of your Lottie JSON file
 };
 
 const anim = lottie.loadAnimation(animationData);
